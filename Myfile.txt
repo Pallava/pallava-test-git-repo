@@ -4,4 +4,3 @@ for 3rd commit
 i am in dev`branch now!!
 i am doing changes in dev now
 i am working now in DEV environment
-adding somethinf
